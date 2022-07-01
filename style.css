@@ -1,0 +1,24 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+body {
+  font-family: Lato;
+}
+
+#joke {
+  min-height: 10vh;
+  max-height: fit-content;
+  border: 1px solid black;
+  padding: 20px;
+  display: flexbox;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+#refreshBtn {
+  font-family: Lato;
+  margin: 20px 0px;
+}
